@@ -23,4 +23,8 @@ You can go through the notebook `Component1_Data_Analysis.ipynb` with prepared d
 You can walk through `Component2_NLP.ipynb` to shorten summaries and create the `shortened_summaries.csv` file, or you can utilize the file `shortened_summaries.csv` located in the `root` directory if you want to save time.
 
 ### Component3 - Computer Vision
-You can follow up the notebook `Component3_Computer_Vision.ipynb` to generate images from scratch based on the shortened summaries, or you can navigate to the `/generated_images` directory located in the `root` directory to see generated images.
+You can follow up the notebook `Component3_Computer_Vision.ipynb` to generate images from scratch based on the shortened summaries, or you can navigate to the 
+`/generated_images` directory located in the `root` directory to see generated images.
+
+## Maintainer Contact:
+<a href="https://linktr.ee/amirhoseinsedaghati">https://linktr.ee/amirhoseinsedaghati</a>
